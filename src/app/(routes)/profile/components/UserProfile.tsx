@@ -21,6 +21,7 @@ export function UserProfile() {
 
   return (
     <div className="space-y-6">
+      <h1>Test</h1>
       <Card>
         <CardHeader>
           <div className="flex items-center space-x-4">
