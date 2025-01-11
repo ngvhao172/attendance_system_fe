@@ -1,0 +1,16 @@
+{
+  "trailingComma": "all",
+  "arrowParens": "always",
+  "bracketSameLine": false,
+  "bracketSpacing": true,
+  "quoteProps": "as-needed",
+  "semi": true,
+  "singleQuote": true,
+  "useTabs": false,
+  "tabWidth": 2,
+  "endOfLine": "crlf",
+  "printWidth": 120,
+  "sortKeys": true,
+  "embeddedLanguageFormatting": "auto"
+}
+  
